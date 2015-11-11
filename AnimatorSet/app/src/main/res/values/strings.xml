@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AnimatorSet</string>
+    <string name="start_animator">开始动画</string>
+</resources>
